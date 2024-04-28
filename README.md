@@ -34,7 +34,7 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal: 
 
-1. ``git clone https://github.com/PancakeswapEU/Pancakeswap-Prediction-Bot`` 
+1. ``git clone https://github.com/Pandasswap/pancakeswap-prediction-game-bot`` 
 2. ``cd Pancakeswap-Prediction-bot``
 3. ``npm i``
 
