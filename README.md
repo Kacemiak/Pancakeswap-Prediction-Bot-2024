@@ -1,5 +1,5 @@
   
-# 🔮 PancakeSwap Prediction Bot.
+# 🔮 PancakeSwap Prediction Bot 2024.
  
 <div align="center">
   <img height="256" src="./src-tauri/banner.png" />
